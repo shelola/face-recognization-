@@ -1,2 +1,2 @@
 # face-recognization-
-Mac tensorflow python opencv
+在Mac下用tensorflow python opencv编写人脸识别
